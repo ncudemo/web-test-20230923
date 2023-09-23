@@ -2,7 +2,7 @@
   <tr>
     <td width="10%">
      
-<img style="" src="https://raw.githubusercontent.com/ncudemo/web-test-20230923/main/hw1.png">
+<img style="width:100px" src="https://raw.githubusercontent.com/ncudemo/web-test-20230923/main/hw1.png">
  
     </td>
     <td width="80%">
