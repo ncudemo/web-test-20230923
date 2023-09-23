@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td width="20%">
+    <td width="10%">
      
 <img style="" src="https://raw.githubusercontent.com/ncudemo/web-test-20230923/main/hw1.png">
  
