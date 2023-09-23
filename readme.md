@@ -6,10 +6,6 @@
  
     </td>
     <td>
-    
-    </td>
-  </tr>
-</table>
 
 ```swift
   import SwiftUI
