@@ -2,10 +2,10 @@
   <tr>
     <td width="20%">
      
-<img style="float:left;width:250px" src="https://raw.githubusercontent.com/ncudemo/web-test-20230923/main/hw1.png">
+<img style="" src="https://raw.githubusercontent.com/ncudemo/web-test-20230923/main/hw1.png">
  
     </td>
-    <td>
+    <td width="80%">
 
 ```swift
   import SwiftUI
