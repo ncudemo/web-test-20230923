@@ -1,6 +1,5 @@
 ```swift
   import SwiftUI
-
   struct ContentView: View {
       var body: some View {
           Text("Hello, SwiftUI")
@@ -20,8 +19,6 @@
 
 ```
 <img style="width:250px" src="https://raw.githubusercontent.com/ncudemo/web-test-20230923/main/hw1.png">
-
-
 
 
 
