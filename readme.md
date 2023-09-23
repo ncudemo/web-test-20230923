@@ -3,7 +3,8 @@
     <td width="10%">
      
 <img style="float:left;width:100px" src="https://raw.githubusercontent.com/ncudemo/web-test-20230923/main/hw1.png">
- 
+</td>
+<td style="width:200px">
 
 ```swift
   import SwiftUI
