@@ -18,8 +18,7 @@
   }
 
 ```
-<img style="width:250px" src="https://raw.githubusercontent.com/ncudemo/web-test-20230923/main/hw1.png">
+<img style="float:left;width:250px" src="https://raw.githubusercontent.com/ncudemo/web-test-20230923/main/hw1.png">
 
-</td>
 
 
