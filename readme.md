@@ -1,9 +1,9 @@
 <table>
   <tr>
-    <td>     
+    <td style="width:250px">     
 <img style="width:250px" src="https://raw.githubusercontent.com/ncudemo/web-test-20230923/main/hw1.png">
 </td>
-<td style="width:200px">
+<td style="width:300px">
 
 ```swift
   import SwiftUI
