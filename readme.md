@@ -1,3 +1,5 @@
+<img style="float: left;width:50%" src="https://raw.githubusercontent.com/ncudemo/web-test-20230923/main/hw1.png">
+
 ```swift
   import SwiftUI
 
@@ -19,7 +21,7 @@
   }
 
 ```
-<img style="float: right;" src="https://raw.githubusercontent.com/ncudemo/web-test-20230923/main/hw1.png">
+
 
 
 
