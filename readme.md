@@ -1,3 +1,4 @@
+```swift
   import SwiftUI
 
   struct ContentView: View {
@@ -15,5 +16,9 @@
               .resizable()
               .scaledToFit()
       }
-}
+  }
+
+```
+
+
 
