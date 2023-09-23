@@ -1,6 +1,11 @@
-<img style="float: left;width:200px" src="https://raw.githubusercontent.com/ncudemo/web-test-20230923/main/hw1.png">
-
-<code style="width:200px">
+<table>
+  <tr>
+    <td>
+        <img style="" src="https://raw.githubusercontent.com/ncudemo/web-test-20230923/main/hw1.png">      
+    </td>
+    <td>
+      
+```swift
   import SwiftUI
 
   struct ContentView: View {
@@ -20,7 +25,11 @@
       }
   }
 
-</code>
+```
+    </td>
+  </tr>
+</table>
+
 
 
 
