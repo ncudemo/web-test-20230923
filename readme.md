@@ -1,4 +1,4 @@
-<img style="float: left;width:50%" src="https://raw.githubusercontent.com/ncudemo/web-test-20230923/main/hw1.png">
+<img style="float: left;width:200px" src="https://raw.githubusercontent.com/ncudemo/web-test-20230923/main/hw1.png">
 
 ```swift
   import SwiftUI
